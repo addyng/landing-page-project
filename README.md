@@ -1,6 +1,6 @@
 # landing-page-project
 HTML+CSS project from The Odin Project
-
+https://addyng.github.io/landing-page-project/
 Images:
 Logo: https://www.freepik.com/free-vector/character-playing-online-video-games_7798430.htm#query=svg%20game&position=31&from_view=search&track=ais&uuid=86fbcfbe-db6e-4937-8c8f-36c094b346b0
 
